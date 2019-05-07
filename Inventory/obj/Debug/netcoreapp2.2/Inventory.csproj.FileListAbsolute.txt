@@ -1,0 +1,14 @@
+/Users/Guest/Desktop/Inventory.Solution/Inventory/obj/Debug/netcoreapp2.2/Inventory.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Inventory.Solution/Inventory/obj/Debug/netcoreapp2.2/Inventory.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Inventory.Solution/Inventory/obj/Debug/netcoreapp2.2/Inventory.RazorAssemblyInfo.cache
+/Users/Guest/Desktop/Inventory.Solution/Inventory/obj/Debug/netcoreapp2.2/Inventory.RazorAssemblyInfo.cs
+/Users/Guest/Desktop/Inventory.Solution/Inventory/obj/Debug/netcoreapp2.2/Inventory.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Inventory.Solution/Inventory/obj/Debug/netcoreapp2.2/Inventory.AssemblyInfo.cs
+/Users/Guest/Desktop/Inventory.Solution/Inventory/bin/Debug/netcoreapp2.2/Inventory.deps.json
+/Users/Guest/Desktop/Inventory.Solution/Inventory/bin/Debug/netcoreapp2.2/Inventory.runtimeconfig.json
+/Users/Guest/Desktop/Inventory.Solution/Inventory/bin/Debug/netcoreapp2.2/Inventory.runtimeconfig.dev.json
+/Users/Guest/Desktop/Inventory.Solution/Inventory/bin/Debug/netcoreapp2.2/Inventory.dll
+/Users/Guest/Desktop/Inventory.Solution/Inventory/bin/Debug/netcoreapp2.2/Inventory.pdb
+/Users/Guest/Desktop/Inventory.Solution/Inventory/obj/Debug/netcoreapp2.2/Inventory.RazorTargetAssemblyInfo.cache
+/Users/Guest/Desktop/Inventory.Solution/Inventory/obj/Debug/netcoreapp2.2/Inventory.dll
+/Users/Guest/Desktop/Inventory.Solution/Inventory/obj/Debug/netcoreapp2.2/Inventory.pdb

@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Inventory.Solution/Inventory.Tests/obj/Debug/netcoreapp2.2/Inventory.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Inventory.Solution/Inventory.Tests/obj/Debug/netcoreapp2.2/Inventory.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Inventory.Solution/Inventory.Tests/obj/Debug/netcoreapp2.2/Inventory.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Inventory.Solution/Inventory.Tests/obj/Debug/netcoreapp2.2/Inventory.AssemblyInfo.cs
